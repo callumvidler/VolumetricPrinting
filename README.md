@@ -1,5 +1,8 @@
 # VolumetricPrinting
 Matlab code for volumetric printing project December 2019
+Callum Vidler 
+PhD Student, The University of Melbourne 
+Email: vidlerc@student.unimelb.edu.au
 ## Getting Started
 This repository includes the matlab files required to run the volumetric printing software. To run the software, set the work directory to the current folder and open Application.mlapp 
 
