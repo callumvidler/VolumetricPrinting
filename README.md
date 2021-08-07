@@ -1,4 +1,4 @@
-# VolumetricPrinting
+# Volumetric Printing
 Matlab code for volumetric printing project (December 2019)
 
 Callum Vidler 
