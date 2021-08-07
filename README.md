@@ -1,5 +1,11 @@
 # VolumetricPrinting
-Matlab code for volumetric printing project December 2019
+Matlab code for volumetric printing project (December 2019)
+
+Callum Vidler 
+
+PhD Student, The University of Melbourne 
+
+Email: vidlerc@student.unimelb.edu.au
 ## Getting Started
 This repository includes the matlab files required to run the volumetric printing software. To run the software, set the work directory to the current folder and open Application.mlapp 
 
@@ -9,6 +15,10 @@ The right hand side contains buttons for moving the printer up and down, turning
 
 ### Installing
 Some additional Matlab plug-ins may be required before starting the software. These should be displayed in the command window when trying to run the sofware. These include the image processing toolbox and computer vision toolbox. Additionally, to display the video sequence mplayer.exe will need to be installed in the work directory. 
+
+### Video of Project
+A video showing the slicers operation and output can be found here: 
+https://www.youtube.com/watch?v=_9Z4HzItfj8&ab_channel=CallumVidler
 
 
 ![image](https://user-images.githubusercontent.com/64818707/128590761-74fccc8c-e74c-4414-a9d2-78b9a2e8f799.png)
