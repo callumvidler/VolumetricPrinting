@@ -9,3 +9,6 @@ The right hand side contains buttons for moving the printer up and down, turning
 
 ### Installing
 Some additional Matlab plug-ins may be required before starting the software. These should be displayed in the command window when trying to run the sofware. These include the image processing toolbox and computer vision toolbox. Additionally, to display the video sequence mplayer.exe will need to be installed in the work directory. 
+
+
+![image](https://user-images.githubusercontent.com/64818707/128590681-0aa55c19-24e3-46fb-b347-1cc366e8888c.png)
