@@ -1,5 +1,5 @@
 # VolumetricPrinting
-Matlab code for volumetric printing project
+Matlab code for volumetric printing project December 2019
 ## Getting Started
 This repository includes the matlab files required to run the volumetric printing software. To run the software, set the work directory to the current folder and open Application.mlapp 
 
@@ -11,4 +11,5 @@ The right hand side contains buttons for moving the printer up and down, turning
 Some additional Matlab plug-ins may be required before starting the software. These should be displayed in the command window when trying to run the sofware. These include the image processing toolbox and computer vision toolbox. Additionally, to display the video sequence mplayer.exe will need to be installed in the work directory. 
 
 
-![image](https://user-images.githubusercontent.com/64818707/128590681-0aa55c19-24e3-46fb-b347-1cc366e8888c.png)
+![image](https://user-images.githubusercontent.com/64818707/128590761-74fccc8c-e74c-4414-a9d2-78b9a2e8f799.png)
+
